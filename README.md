@@ -1,2 +1,2 @@
 # Ecomm-App
-This is an ecommerce is app.
+This is an ecommerce application.
